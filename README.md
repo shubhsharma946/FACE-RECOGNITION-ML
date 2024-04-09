@@ -34,8 +34,7 @@ The model has an accuracy of 99.38% on the [Labeled Faces in the Wild](http://vi
 
 ## Procedure:
 
-- Clone this repository `git clone git@github.com:anubhavshrimal/FaceRecognition.git`.
-
+- Clone this repository `git clone https://github.com/shubhsharma946/FACE-RECOGNITION-ML.git
 ### Training:
 - Make folder `training-images`.
 - Add images of each person you want to recognise to a folder by their name in `training-images`.
